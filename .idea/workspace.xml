@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f52fbb70-4498-4cd3-bc04-4c5a51bc2f0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="06059eaa-f307-43df-8dad-a08ec922aa69" />
+  </component>
+  <component name="ProjectId" id="28S1SxTDj8Bz8G2vRVSjPxUxOeV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/atguigu/sync" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\juc_atguigu\src\com\atguigu\sync" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestThreadPool">
+    <configuration name="TestABCAlternate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.sync.TestABCAlternate" />
+      <module name="juc_atguigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProductorAndConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.sync.TestProductorAndConsumer" />
+      <module name="juc_atguigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProductorAndConsumerForLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.sync.TestProductorAndConsumerForLock" />
+      <module name="juc_atguigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThread8Monitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.sync.TestThread8Monitor" />
+      <module name="juc_atguigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.sync.TestThreadPool" />
+      <module name="juc_atguigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestThreadPool" />
+        <item itemvalue="Application.TestThread8Monitor" />
+        <item itemvalue="Application.TestABCAlternate" />
+        <item itemvalue="Application.TestProductorAndConsumerForLock" />
+        <item itemvalue="Application.TestProductorAndConsumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f52fbb70-4498-4cd3-bc04-4c5a51bc2f0e" name="Default Changelist" comment="" />
+      <created>1651195176273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651195176273</updated>
+      <workItem from="1651195179288" duration="1929000" />
+      <workItem from="1651275308826" duration="6266000" />
+      <workItem from="1651336957927" duration="2654000" />
+      <workItem from="1651393695622" duration="5140000" />
+      <workItem from="1651410900055" duration="2526000" />
+      <workItem from="1651445692502" duration="4700000" />
+      <workItem from="1651472440332" duration="602000" />
+      <workItem from="1652747810609" duration="1488000" />
+      <workItem from="1653137428648" duration="4262000" />
+      <workItem from="1653190896739" duration="2204000" />
+      <workItem from="1653886446280" duration="875000" />
+      <workItem from="1653887353297" duration="312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1135" y="377" key="#com.intellij.ide.util.MemberChooser" timestamp="1651451570368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1135" y="377" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1651451570368" />
+    <state x="387" y="190" key="CommitChangelistDialog2" timestamp="1653887503646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="387" y="190" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1653887503646" />
+    <state x="537" y="316" width="1049" height="572" key="DiffContextDialog" timestamp="1653887289657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="316" width="1049" height="572" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1653887289657" />
+    <state width="1324" height="188" key="GridCell.Tab.0.bottom" timestamp="1651459170858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="188" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1651459170858" />
+    <state width="1324" height="188" key="GridCell.Tab.0.center" timestamp="1651459170858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="188" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1651459170858" />
+    <state width="1324" height="188" key="GridCell.Tab.0.left" timestamp="1651459170858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="188" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1651459170858" />
+    <state width="1324" height="188" key="GridCell.Tab.0.right" timestamp="1651459170858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="188" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1651459170858" />
+    <state width="1324" height="238" key="GridCell.Tab.1.bottom" timestamp="1651290310512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="238" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1651290310512" />
+    <state width="1324" height="238" key="GridCell.Tab.1.center" timestamp="1651290310512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="238" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1651290310512" />
+    <state width="1324" height="238" key="GridCell.Tab.1.left" timestamp="1651290310512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="238" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1651290310512" />
+    <state width="1324" height="238" key="GridCell.Tab.1.right" timestamp="1651290310512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="238" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1651290310512" />
+    <state x="1066" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1653139906630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1066" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653139906630" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/sync/TestVolatile.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
